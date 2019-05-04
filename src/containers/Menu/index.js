@@ -1,7 +1,7 @@
 import React from 'react'
 import MenuItem from '../MenuItem'
 import './index.css'
-import menu from './menu.json'
+import menu from '../../data/menu.json'
 
 const parseJsonTree = (nodes) => {
   for (let i = 0; i< nodes.length; i++) {
