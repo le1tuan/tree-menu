@@ -30,9 +30,5 @@
   {
     "name": "Menu A.2",
     "items": ["Menu A.2.1", "Menu A.2.2", "Menu A.2.3"]
-  },
-  {
-    "name": "Menu B.2.1.1",
-    "items": ["Menu B.2.1.1.1", "Menu B.2.1.1.1.2"]
   }
 ]
